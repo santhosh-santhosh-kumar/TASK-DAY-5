@@ -1,0 +1,78 @@
+let myResume=[
+    {
+     "information":{
+                   "name":"SANTHOSHKUMAR.S",
+                   "Email":"santhoshselvakumar51@gmail.com",
+                   "Mobile":"93611 16112" 
+                }
+    },
+    {
+     "Education":{
+            "SSLC":{
+                   "schoolName":"Government  High School",
+                   "board":"State Board of Education",
+                   "yearOfPassing":"2012",
+                   "place":"kullampalayam",
+                   "percentage":"83%"
+                   },
+             "HSC":{
+                   "schoolName":"Sree Gurugulam  Higher Sec School",
+                   "board":"State Board of Education",
+                   "yearOfPassing":"2014",
+                   "place":"gobi",
+                   "percentage":"80%"
+
+                    },
+            "DEGREE":{
+                   "schoolName":"Govt College Of Technology",
+                   "board":"University/Board",
+                   "yearOfPassing":"null",
+                   "place":"covai",
+                   "percentage":"6.23"
+                     }
+                }
+    },
+    {
+     "Technical Skill set":"HTML css javascript"
+    },
+    {
+     "Project":{ 
+            "Project Title":"ENHANCING THE SECURITY OF THE IMAGE USING RIT",
+            "Platform":"MatLab",
+            "Team Members":"4",
+            "Role":"Mobile theft detection ( Module )",
+            "Project Description":"Technique used to transform one sms or whatsapp to another .The parameters required to transform the sms or whatsapp should be encrypted and embedded into the mobile phones."
+               }
+    },
+    { 
+     "Experience":{
+            "Associate":"MEHA INFO TECH at 10  months",
+            "Head office manager":"HARINI ELECTRONICS AND FURNITURE  at 2years"
+                   }
+    },
+    {
+     "Extra-Curricular Activities":"Playing Cricket Adobe Photoshopm Area of Interest System works"
+    },
+    {
+     "Achievements":"Got SECOND PRIZE in QUIZ at GeekScoop’17 Organized School Level Functions"
+    },
+    {
+     "Leisure Interest":"Listening Music Surfing Internet"
+    },
+    {
+     "Personal Information":{
+                            "Full Name":"Santhoshkumar.S",
+                            "Date of Birth":"5-jan-1996",
+                            "Father Name":"Mr. A.Selvan",
+                            "Permanent Address":"83/76,baby school  Street,sengottaiya nagar kullampalayam gobi – 638476 ",
+                            "Phone":"+91 93611 16112", 
+                            "Languages Known":"Tamil & English (Read & Write)"
+                             }
+    },
+    {
+     "SIGNATURE":"xxxxxxxxx"
+    },
+    {
+     "DATE":"xxxxxx"      
+    }]
+
